@@ -1,6 +1,12 @@
 <body>
     <h1>Hi, my name is Harun Mohamed!</h1>
-    <p>I am a full-time student majoring in Computer Science at Colgate University. Originally from Syracuse, New York, one of my favorite hobbies is snowboarding.</p>
+    <p>I am a full-time student majoring in Computer Science at Colgate University. My goal is to leverage my skills and knowledge to create impactful software solutions that address societal challenges and improve people's lives.
+
+
+
+
+
+</p>
     <p>Feel free to reach out to me on <a href="https://www.linkedin.com/in/harun-mohamed/">LinkedIn</a>!</p>
 </body>
 <h2>👨‍💻Projects:</h2>
